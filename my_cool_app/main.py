@@ -1,4 +1,4 @@
-from my_package import hello
+from my_cool_app import hello
 
 def cli_entrypoint():
     print(hello())
